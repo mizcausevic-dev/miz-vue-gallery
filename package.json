@@ -5,13 +5,21 @@
   "author": "Mirza Causevic <150495873+mizcausevic-dev@users.noreply.github.com>",
   "license": "MIT",
   "homepage": "https://github.com/mizcausevic-dev/miz-vue-gallery",
-  "keywords": ["vue", "vue3", "photography", "gallery", "portfolio", "masonry", "lightbox"],
+  "keywords": [
+    "vue",
+    "vue3",
+    "photography",
+    "gallery",
+    "portfolio",
+    "masonry",
+    "lightbox"
+  ],
   "dependencies": {
     "vue": "^3.4.0"
   },
   "devDependencies": {
-    "vite": "^5.0.0",
-    "@vitejs/plugin-vue": "^5.0.0"
+    "@vitejs/plugin-vue": "^6.0.8",
+    "vite": "^8.2.0"
   },
   "scripts": {
     "dev": "vite",
